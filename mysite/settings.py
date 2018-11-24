@@ -25,7 +25,7 @@ SECRET_KEY = '&=)*q7bp28=*bofs!cu*mf-=_twt0j7r-b8zt7pg!#wy$rn^_p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '<JessidEscobar>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'jessidEscobarp.pythonanywhere.com']
 
 
 # Application definition
